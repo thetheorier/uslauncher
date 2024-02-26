@@ -4,6 +4,6 @@ Distribution data of Siri shortcut "USLauncher".
 
 Scheduled to be updated at the end of each month.
 
-More details：<a href="https://blog.thetheorier.com/uslauncher">https://blog.thetheorier.com/uslauncher</a>(Japanese)
-
-
+More details：
+  Blog：<a href="https://blog.thetheorier.com/uslauncher">https://blog.thetheorier.com/uslauncher</a>(Japanese)
+  Download(Routinehub)：<a href="https://routinehub.co/shortcut/7696/">https://routinehub.co/shortcut/7696/</a>
